@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "baseline": {
+    "README.md": "8be66eb6ecfa1f8ecd35d7330f652c2e972788acc5bf009cad4e08a9f11eb003",
+    "server.js": "98cb626b476d22e27d01bd0967fdef82e2cd4ef0dda962ca2114ada4bf21babc",
+    "package.json": "8e2e00216c94544c8d442b8bc200d62202230ad4ef592a13a86c40e8761306cb",
+    "public/index.html": "19d509b0d0acd35bd11c2ea6ce9fae2471f0f8a47b9f183565bfc944f442c7eb",
+    "public/css/style.css": "a37ca9250652c241df7ff13863e7643bff8f637eac0a2d570369d0c0eba09d67"
+  }
+}
